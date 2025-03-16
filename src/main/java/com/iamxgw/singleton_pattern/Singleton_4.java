@@ -5,6 +5,6 @@ package main.java.com.iamxgw.singleton_pattern;
  * @author: IamXGW
  * @create: 2025-03-16 21:30
  */
-public class SingletonPattern {
-
+public enum Singleton_4 {
+    UNIQUE_INSTANCE;
 }
